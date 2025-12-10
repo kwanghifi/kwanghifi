@@ -1,0 +1,5 @@
+{
+  "name": "AudioSale Pro",
+  "description": "A mobile-first application to manage second-hand audio equipment sales, track profits, and analyze monthly performance.",
+  "requestFramePermissions": []
+}
